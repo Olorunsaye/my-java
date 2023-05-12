@@ -1,0 +1,58 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.body{
+    padding-right: 80%;
+    border: 20%;
+    margin: 50%;
+    text-decoration: dashed;
+    font-family: cursive;
+    font-size: 16px;
+    
+}
+
+.content h1{
+    background-color: rgb(33, 218, 33);
+    font-family: cursive;
+    font-size: 30px;
+    margin: 20px;
+    font-weight: 700;
+    max-width: fit-content;
+    justify-content: center;
+    text-decoration: underline;
+}
+
+.content p{
+    font-stretch: expanded;
+    margin: 20px;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+}
+
+.content h4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    padding: 10px;
+    margin: 20px;
+}
+
+.button{
+    font-size: 14px;
+    margin: 8px;
+    padding: 10px 15px;  
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+    background-color: chocolate;
+    border: 2px;
+    border-radius: 20px;
+    width: 100px;
+    display: inline;
+    background-color: aqua;
+}
+
+
